@@ -1,3 +1,8 @@
 title: Upora Legal
-theme: just-the-docs
+description: Terms & Privacy
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+# (opsiyonel) sol menü vs. için:
 logo: /assets/logo.png
